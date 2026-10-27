@@ -1,0 +1,8 @@
+{
+  "name": "vybe by sparsh",
+  "description": "AI-powered Instagram Story song recommendation app that analyzes your photo, captures your mood, and finds the perfect soundtrack with instant previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
